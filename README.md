@@ -1,2 +1,1 @@
-# ywiv3
-基于vue-cli3生成的项目（yarn+webpack+iview+vue）
+# 使用Vue-cli3构建的vue项目 ywiv3（yarn+webpack+iview+vue+vuecli3)
